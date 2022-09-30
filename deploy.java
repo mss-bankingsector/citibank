@@ -1,4 +1,4 @@
 "hello am updating in dev branch"
-:wq
+"pdating from dev branch"
 "hello this is java file"
 
